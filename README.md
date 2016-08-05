@@ -2,7 +2,7 @@
 The Windows Anniversary update contains a [Linux subsystem](https://msdn.microsoft.com/en-us/commandline/wsl/about?f=255&MSPPError=-2147217396) that lets the developers enjoy Linux's bash on Windows. This repository contains scripts to add and removes keys from windows register to have a quick access to the bash from windows' context menu.
 
 <p align="center">
-  <img src="http://7.t.imgbox.com/UrITUlRH.jpg" alt="screenshot" />
+  <img src="http://i.imgbox.com/UrITUlRH.png" alt="screenshot" />
 </p>
 
 ## How to Install

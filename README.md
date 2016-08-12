@@ -6,7 +6,9 @@ The Windows Anniversary update contains a [Linux subsystem](https://msdn.microso
 </p>
 
 ## How to Install
-Make sure you have [installed the Linux subsystem and bash](https://msdn.microsoft.com/en-us/commandline/wsl/install_guide). After that, download the installation script and run it as administrator.
+1. Make sure you have [installed the Linux subsystem and bash](https://msdn.microsoft.com/en-us/commandline/wsl/install_guide).  
+2. After that, download the entire folder or git clone this repo.
+3. Run the installation-script as administrator.
 
 ## How to uninstall
 Run the unistaller script as administrator to remove installed key from the register.

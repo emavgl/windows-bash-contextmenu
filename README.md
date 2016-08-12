@@ -13,6 +13,11 @@ The Windows Anniversary update contains a [Linux subsystem](https://msdn.microso
 ## How to uninstall
 Run the unistaller script as administrator to remove installed key from the register.
 
+## Customize it
+1. Go to *C:\Users\<your-user>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs*
+2. Edit the shortcut *BashUbuntu.lnk* (right click -> properties)
+3. Update your preferences (color-scheme, font-size etc...)
+
 ## What to improve in the future
-Actually Windows has two terminal emulators (once for classic cmd and once for bash) with two different set of preferences. Run bash from the context menu will open a *cmd terminal* with its set of preferences.  
-It could be nice if the link in context menu can start a  bash in *bash terminal*.
+Actually, after you run the bash from the context-menu you will see a second terminal for some milliseconds.
+It could be nice if the link in context menu can start directly a new bash terminal and [use the same shortcut of Windows StartMenu](https://github.com/emavgl/windows-bash-contextmenu/issues/1#issuecomment-239498806).
